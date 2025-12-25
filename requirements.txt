@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+geopy
+scikit-learn
+lightgbm
+xgboost
+plotly
+nbformat

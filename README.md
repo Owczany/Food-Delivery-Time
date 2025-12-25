@@ -2,6 +2,8 @@
 
 # Subject: How much time take to deliver food
 
+We recommend using python from 3.8 to 3.13
+
 # Set up
 ...
 
