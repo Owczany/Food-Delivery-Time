@@ -1,0 +1,18 @@
+name: neural
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - pytorch
+  - numpy
+  - matplotlib
+  - ipykernel
+  - scikit-learn
+  - seaborn
+  - transformers
+  - xgboost
+  - geopy
+  - lightgbm
+prefix: /Users/fafer77/miniforge3/envs/neural
